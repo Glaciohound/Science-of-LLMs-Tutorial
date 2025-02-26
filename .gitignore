@@ -1,0 +1,16 @@
+# Ignore Jekyll build output
+_site/*
+.jekyll-cache/
+.jekyll-metadata
+
+# Ignore Ruby/Bundler dependencies
+.bundle/
+vendor/
+
+# Ignore macOS and system files
+.DS_Store
+Thumbs.db
+
+# Ignore Git LFS cache
+.lfsconfig
+.git/lfs/
