@@ -33,6 +33,7 @@ Welcome to the official page for our AAAI 2025 tutorial!
 
 ## Schedule
 
+![roadmap](images/roadmap.png)
 
 ### Part 1: Ethology – How Do LMs Behave?
 - **Syntax:** Do LMs care about syntax?
@@ -103,3 +104,19 @@ Heng Ji, a Professor at UIUC and Amazon Scholar, directs the Amazon-Illinois Cen
 [**PPTX version**](https://github.com/Glaciohound/Science-of-LLMs-Tutorial/raw/refs/heads/main/assets/slides.pptx)
 
 [**Keynote version**](https://github.com/Glaciohound/Science-of-LLMs-Tutorial/raw/refs/heads/main/assets/slides.key)
+
+
+## To Cite This Tutorial
+
+```bibtex
+@misc{han2025science,
+  title={The Quest for a Science of Language Models},
+  author={Han, Chi and Ji, Heng},
+  year={2025},
+  month={February},
+  institution={University of Illinois Urbana-Champaign, Amazon},
+  howpublished={AAAI 2025 Tutorial, Pennsylvania Convention Center, Philadelphia, USA},
+  url={https://glaciohound.github.io/Science-of-LLMs-Tutorial/},
+  note={Presented at AAAI 2025 Tutorial Session TQ15}
+}
+```
